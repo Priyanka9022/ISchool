@@ -31,10 +31,4 @@ Database: MySQL (for storing users, courses, payments, etc.)
 
 Version Control: Git & GitHub
 
-🗂 Modules Covered:
-Module             	Description
-User Module        	User registration, login, profile, and course tracking
-Course Module	      Course listing, searching, filtering, and enrollment
-Admin Module	      Admin login, course management, payment tracking
-Payment Module	    Course fee payment via simulated payment gateway
-Contact Module	    Submit feedback or queries to admin
+
